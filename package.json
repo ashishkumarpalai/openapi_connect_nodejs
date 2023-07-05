@@ -1,0 +1,19 @@
+{
+  "name": "openapi_with_chatgpt_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "nodemon": "^2.0.22",
+    "openai": "^3.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
